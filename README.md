@@ -70,14 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-
-<h2>Hello bANGLADESH</h2>
-<CourseCard
-                                data={course}
-                                key={course.course_id}
-                                wishlist={wishlist}
-                                setWishlist={setWishlist}
-                                enrolled={myBought[course.course_id]}
-                                index={idx}
-                                signedIn
-                            />
